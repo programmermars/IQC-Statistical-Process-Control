@@ -2,6 +2,7 @@
 
 ## 📌 Project Overview
 This project demonstrates an end-to-end **Incoming Quality Control (IQC)** workflow. Using a dataset of 320 samples, we performed statistical analysis to monitor manufacturing stability and evaluate process capability ($C_p / C_{pk}$).
+data source : https://www.kaggle.com/datasets/gabrielsantello/manufacturing-defects-industry-dataset?resource=download
 
 ## 🛠 Tech Stack
 - **Analysis Tool:** Minitab (Primary analysis & visualization)
